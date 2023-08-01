@@ -1,0 +1,66 @@
+[
+    {
+        "imagem": "/public/images/Sid.png",
+        "nome": "Dunga",
+        "idade": "2 anos",
+        "descricao": "Porte pequeno Calmo e educado",
+        "local": "Rio de Janeiro (RJ)"
+    },
+  
+    {
+        "nome": "Felícia",
+        "idade": "3 meses",
+        "descricao": "Porte pequeno Ativa e carinhosa",
+        "local": "Rio de Janeiro (RJ)"
+
+    },
+  
+    {
+        "nome": "Sirius",
+        "idade": "6 meses",
+        "descricao": "Porte grande Ativo e educado",
+        "local": "Rio de Janeiro (RJ)"
+    },
+  
+    {
+        "nome": "Fiona",
+        "idade": "3 anos",
+        "descricao": "Porte pequeno Calma e carinhosa",
+        "local": "Rio de Janeiro (RJ)"
+    },
+  
+    {
+        "nome": "Sid",
+        "idade": "8 meses",
+        "descricao": "Porte médio/gramde Brincalhão e amável",
+        "local": "Rio de Janeiro (RJ)"
+    },
+  
+    {
+        "nome": "Yoda",
+        "idade": "1 ano",
+        "descricao": "Porte médio Ativo e carinhoso",
+        "local": "Rio de Janeiro (RJ)"
+    },
+  
+    {
+        "nome": "Lua",
+        "idade": "6 meses",
+        "descricao": "Porte médio Ativa e carinhosa",
+        "local": "Rio de Janeiro (RJ)"
+    },
+  
+    {
+        "nome": "Amora",
+        "idade": "45 dias",
+        "descricao": "Porte grande Calma e carinhosa",
+        "local": "Rio de Janeiro (RJ)"
+    },
+    {
+        "nome": "Zelda",
+        "idade": "5 meses",
+        "descricao": "Porte médio Ativa e amável",
+        "local": "Rio de Janeiro (RJ)"
+    }
+  
+]
