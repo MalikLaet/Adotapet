@@ -2,4 +2,22 @@
     display: flex;
     flex-direction: column;
     /* width: 300px; */
+
+    background-color: #F6F6F6;
 }
+
+.card{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.imagem{
+    width: 150px;
+    height: 150px;
+
+}
+
+.nome{}
+
