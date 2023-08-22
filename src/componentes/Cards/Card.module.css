@@ -1,9 +1,7 @@
 .cards{
-    display: flex;
-    flex-direction: column;
-    /* width: 300px; */
-
     background-color: #F6F6F6;
+
+    margin: 1.4em 0;
 }
 
 .card{
@@ -13,11 +11,36 @@
     justify-content: center;
 }
 
+.container{
+    display: flex;
+    flex-direction: column;
+    gap: .8em;
+
+    padding-left: 1.4em;
+}
+
 .imagem{
-    width: 150px;
-    height: 150px;
+    width: 9.4em;
+    height: 9.4em;
 
 }
 
-.nome{}
+.lista{
+    display: flex;
+    flex-direction: column;
+    gap: .2em;
 
+    color: #737380;
+    font-size: .8em;
+}
+
+.nome{
+    color: #3772FF;
+    font-weight: 600;
+    font-size: 1em;
+}
+
+.local{ 
+    color: #737380;
+    font-size: .8em;
+}

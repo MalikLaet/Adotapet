@@ -1,0 +1,11 @@
+.texto{
+    color: #3772FF;
+    font-size: 1em;
+    line-height: 1.2em;
+
+    padding: 2em 0;
+
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
